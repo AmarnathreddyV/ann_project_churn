@@ -1,5 +1,7 @@
-streamlit
-tensorflow
+streamlit==1.46.1
+tensorflow==2.19.0
 numpy
+pandas
 scikit-learn
-pickle-mixin
+h5py
+protobuf
